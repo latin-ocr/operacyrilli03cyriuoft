@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operacyrilli03cyriuoft_0008.png"; bbox 0 0 2021 3296; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 966 1101 1188 1149">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 966 1101 1188 1149">
+     <span class='ocr_line' id='line_1_1' title="bbox 966 1101 1188 1149; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 966 1101 1188 1149; x_wconf 65' lang='lat' dir='ltr'>’itunm&#39;m&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 875 1261 1267 1685">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 875 1261 1267 1685">
+     <span class='ocr_line' id='line_1_2' title="bbox 875 1261 1267 1685; baseline 0 1611"><span class='ocrx_word' id='word_1_2' title='bbox 875 1261 1267 1685; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 984 1833 1143 1866">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 984 1833 1143 1866">
+     <span class='ocr_line' id='line_1_3' title="bbox 984 1833 1143 1866; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 984 1833 1143 1866; x_wconf 91' lang='lat' dir='ltr'><strong>APUD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 587 1982 1531 2025">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 587 1982 1531 2025">
+     <span class='ocr_line' id='line_1_4' title="bbox 587 1982 1531 2025; baseline 0.002 -4"><span class='ocrx_word' id='word_1_4' title='bbox 587 1983 637 2022; x_wconf 89' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_5' title='bbox 685 1982 1105 2024; x_wconf 77' lang='lat' dir='ltr'><strong>MACMILLAN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 1985 1234 2024; x_wconf 82' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 1286 1984 1531 2025; x_wconf 73' lang='lat' dir='ltr'>SOCIOS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
